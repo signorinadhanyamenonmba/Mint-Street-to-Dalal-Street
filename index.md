@@ -1,26 +1,31 @@
 ```markdown
 
-Please enter your financial model request_
+This repository contains artificially intelligent financial models for analysing:
 
+* Cash Flow
 
+* Efficiency
 
+* Growth
 
+* Leverage
 
+* Liquidity
 
+* Profitability
 
+* Return
 
+* Risk
 
+* Sensitivity
 
+* Stock Price
 
+* Value
 
+* Variance
 
-
-
-
-
-
-
-
-
+* Yield
 
 ```
