@@ -1,8 +1,6 @@
-AI Financial Models Repository
-
 ```markdown
 
-Analyse:
+AI Financial Models in this repository analyses:
 
 * Cash Flow
 
