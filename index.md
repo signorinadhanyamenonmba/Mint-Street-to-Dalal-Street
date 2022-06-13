@@ -1,4 +1,6 @@
-# Analyse:
+### Mint Street to Dalal Street
+
+This repository contains AI enabled financial models that analyse:
 
 ```markdown
 
